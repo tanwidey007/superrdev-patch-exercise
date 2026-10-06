@@ -20,4 +20,4 @@ The backend currently retrieves all matching tasks before applying pagination. T
 
 ## Tools / AI Used
 
-Used VS Code, Chrome DevTools, PowerShell, and Git. AI assistance was used to help inspect the code, reason about bugs, suggest focused fixes, and structure the documentation. All implemented changes were manually reviewed and tested.
+Used VS Code, Chrome DevTools, PowerShell, and Git. I used AI assistance to get help in inspecting the code, reason about bugs, suggest focused fixes, and structure the documentation. All implemented changes were manually reviewed and tested.
